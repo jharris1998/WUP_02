@@ -53,7 +53,7 @@ The bottom of the c52 box is up higher than the top of c39 box and produces more
 ```{r}
 favstats(VitC~Cult,data=veggy)
 ```
-
+  The  first quantile of the c52 data is 58. The third quantile of the c39 data is 54.75.
 
 ## Inferential Results
 
