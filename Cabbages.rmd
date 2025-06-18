@@ -63,7 +63,7 @@ favstats(VitC~Cult,data=veggy)
 t.test(VitC~Cult,data=veggy)
 ```
 
-
+The p value is .00000003405. That is a really small number! With that information it give us results about the p value and estimates about which group between c52 and c39 produce more vitamins. 
 
 # Discussion and Conclusion
 
