@@ -63,8 +63,8 @@ favstats(VitC~Cult,data=veggy)
 t.test(VitC~Cult,data=veggy)
 ```
 
-The p value is .00000003405. That is a really small number! With that information it give us results about the p value and estimates about which group between c52 and c39 produce more vitamins. 
+The p value is .00000003405. That is a really small number! With that information it give us results about the p value and estimates about each group and the c52 is fairly greater than and produce more vitamin c than c39. 
 
 # Discussion and Conclusion
 
-<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variables causes the other, or whether they perhaps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
